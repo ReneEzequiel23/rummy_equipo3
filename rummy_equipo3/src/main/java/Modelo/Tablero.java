@@ -8,6 +8,7 @@ package Modelo;
  *
  * @author Arturo ITSON
  */
-public class MdlTablero {
-    
+public class Tablero {
+ 
+    //private List<Grupo> grupos;
 }

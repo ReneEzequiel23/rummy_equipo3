@@ -10,4 +10,7 @@ package Modelo;
  */
 public class Pila {
     
+    //public List<Ficha> fichas;
+    private int cantidadFichas;
+    private boolean barajada;
 }

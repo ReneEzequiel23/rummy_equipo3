@@ -4,18 +4,14 @@
  */
 package Modelo;
 
-import java.util.List;
-
 /**
  *
  * @author Arturo ITSON
  */
-public class Juego {
+public class Jugador {
     
-    public List<Jugador> jugador;
-  //private Pila<Ficha> fichasSobrantes;
-    private Jugador turnoActual;
-    private int indiceTurno;
-    public int cantidadJugadores;
-    private Tablero tablero;
+    private String nombre;
+    private String avatar;
+    
+    
 }
