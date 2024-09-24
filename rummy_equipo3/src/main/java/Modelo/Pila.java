@@ -8,6 +8,6 @@ package Modelo;
  *
  * @author Arturo ITSON
  */
-public class CtrlEjercerTurno {
+public class Pila {
     
 }
