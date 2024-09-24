@@ -8,6 +8,6 @@ package Modelo;
  *
  * @author Arturo ITSON
  */
-public class Tablero {
+public class MdlTablero {
     
 }
